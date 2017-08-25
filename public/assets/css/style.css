@@ -72,12 +72,12 @@ a {
     border-radius: 5px;
     /*position: fixed;*/
 }
-.element0.nodisplay {
+.element.nodisplay {
     font-family: 'Rubik', sans-serif;
     font-size: 35px;
     color: #087e8b;
 }
-.element1.nodisplay {
+/*.element1.nodisplay {
     font-family: 'Rubik', sans-serif;
     font-size: 35px;
     color: #087e8b;
@@ -101,7 +101,7 @@ a {
     font-family: 'Rubik', sans-serif;
     font-size: 35px;
     color: #087e8b;
-}
+}*/
 #typedText {
     text-align: center;
     margin-top: 200px;
